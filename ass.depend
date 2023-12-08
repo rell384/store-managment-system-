@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1701751261 source:d:\iti\oop\ass4\ass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1701751261 source:d:\iti\c\project\project\ass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
